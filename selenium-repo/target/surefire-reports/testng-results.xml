@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="62212" started-at="2020-01-26T15:41:44Z" finished-at="2020-01-26T15:42:46Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="62212" started-at="2020-01-26T15:41:44Z" finished-at="2020-01-26T15:42:46Z">
+      <class name="com.apex.prac.testing.LoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.apex.prac.testing.LoginTest@124409e]" name="setup" is-config="true" duration-ms="7299" started-at="2020-01-26T09:41:44Z" finished-at="2020-01-26T09:41:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testLostPswdRegMail()[pri:0, instance:com.apex.prac.testing.LoginTest@124409e]" name="testLostPswdRegMail" duration-ms="5093" started-at="2020-01-26T09:41:51Z" finished-at="2020-01-26T09:41:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLostPswdRegMail -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:com.apex.prac.testing.LoginTest@124409e]" name="cleanup" is-config="true" duration-ms="252" started-at="2020-01-26T09:41:57Z" finished-at="2020-01-26T09:41:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.apex.prac.testing.LoginTest@124409e]" name="setup" is-config="true" duration-ms="3982" started-at="2020-01-26T09:41:57Z" finished-at="2020-01-26T09:42:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testLostPswdNtRegMail()[pri:1, instance:com.apex.prac.testing.LoginTest@124409e]" name="testLostPswdNtRegMail" duration-ms="4917" started-at="2020-01-26T09:42:01Z" finished-at="2020-01-26T09:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLostPswdNtRegMail -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:com.apex.prac.testing.LoginTest@124409e]" name="cleanup" is-config="true" duration-ms="86" started-at="2020-01-26T09:42:06Z" finished-at="2020-01-26T09:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.apex.prac.testing.LoginTest@124409e]" name="setup" is-config="true" duration-ms="3293" started-at="2020-01-26T09:42:06Z" finished-at="2020-01-26T09:42:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testInvalidUserNames()[pri:2, instance:com.apex.prac.testing.LoginTest@124409e]" name="testInvalidUserNames" duration-ms="13510" started-at="2020-01-26T09:42:09Z" finished-at="2020-01-26T09:42:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidUserNames -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:com.apex.prac.testing.LoginTest@124409e]" name="cleanup" is-config="true" duration-ms="136" started-at="2020-01-26T09:42:23Z" finished-at="2020-01-26T09:42:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.apex.prac.testing.LoginTest@124409e]" name="setup" is-config="true" duration-ms="3105" started-at="2020-01-26T09:42:23Z" finished-at="2020-01-26T09:42:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testValidUserNames()[pri:3, instance:com.apex.prac.testing.LoginTest@124409e]" name="testValidUserNames" duration-ms="8945" started-at="2020-01-26T09:42:26Z" finished-at="2020-01-26T09:42:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidUserNames -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:com.apex.prac.testing.LoginTest@124409e]" name="cleanup" is-config="true" duration-ms="75" started-at="2020-01-26T09:42:35Z" finished-at="2020-01-26T09:42:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.apex.prac.testing.LoginTest@124409e]" name="setup" is-config="true" duration-ms="2530" started-at="2020-01-26T09:42:35Z" finished-at="2020-01-26T09:42:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testBlankFields()[pri:4, instance:com.apex.prac.testing.LoginTest@124409e]" name="testBlankFields" duration-ms="8828" started-at="2020-01-26T09:42:37Z" finished-at="2020-01-26T09:42:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBlankFields -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:com.apex.prac.testing.LoginTest@124409e]" name="cleanup" is-config="true" duration-ms="127" started-at="2020-01-26T09:42:46Z" finished-at="2020-01-26T09:42:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- com.apex.prac.testing.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

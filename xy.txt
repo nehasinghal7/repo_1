@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 72DC-5928
+
+ Directory of C:\Projects\xyz
+
+02/02/2020  10:01 PM    <DIR>          .
+02/02/2020  10:01 PM    <DIR>          ..
+02/02/2020  09:45 PM    <DIR>          selenium-repo
+02/02/2020  10:01 PM                 0 xy.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  263,993,028,608 bytes free
